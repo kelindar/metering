@@ -21,6 +21,12 @@
 			"revisionTime": "2017-08-20T12:51:33Z"
 		},
 		{
+			"checksumSHA1": "EqpS3/apmdvdQ/kuttVPw5on6Ys=",
+			"path": "cloud.google.com/go/datastore",
+			"revision": "2b74e2e25316cfd9e46b74e444cdeceb78786dc5",
+			"revisionTime": "2017-08-20T12:51:33Z"
+		},
+		{
 			"checksumSHA1": "kdZrjJ3YXxGXaXIz15P4y0biwtg=",
 			"path": "cloud.google.com/go/internal",
 			"revision": "2b74e2e25316cfd9e46b74e444cdeceb78786dc5",
@@ -43,24 +49,6 @@
 			"path": "cloud.google.com/go/internal/version",
 			"revision": "2b74e2e25316cfd9e46b74e444cdeceb78786dc5",
 			"revisionTime": "2017-08-20T12:51:33Z"
-		},
-		{
-			"checksumSHA1": "MG1KoRiYvrFlDxMNHknvfam+iQM=",
-			"path": "github.com/GoogleCloudPlatform/google-cloud-go/datastore",
-			"revision": "2b74e2e25316cfd9e46b74e444cdeceb78786dc5",
-			"revisionTime": "2017-08-20T12:51:33Z"
-		},
-		{
-			"checksumSHA1": "GcIrB1ug6mS8aG73v1KtlHfva9Q=",
-			"path": "github.com/davecgh/go-spew/spew",
-			"revision": "a476722483882dd40b8111f0eb64e1d7f43f56e4",
-			"revisionTime": "2017-08-29T19:49:58Z"
-		},
-		{
-			"checksumSHA1": "E8hSvB11ls71fcgCk7Q8mmFzJsw=",
-			"path": "github.com/emitter-io/config",
-			"revision": "65a08e69dfc813d346bdfc8de1d80c247e9a3288",
-			"revisionTime": "2017-09-03T05:40:10Z"
 		},
 		{
 			"checksumSHA1": "cRxfZM32wP1Ry67s3jLRoYxAz/E=",
@@ -115,18 +103,6 @@
 			"path": "github.com/googleapis/gax-go",
 			"revision": "8c160ca1523d8eea3932fbaa494c8964b7724aa8",
 			"revisionTime": "2017-09-02T00:52:17Z"
-		},
-		{
-			"checksumSHA1": "R3yk3OJzuq4MVfVGX5AhkkYv1ko=",
-			"path": "github.com/pmezard/go-difflib/difflib",
-			"revision": "792786c7400a136282c1664665ae0a8db921c6c2",
-			"revisionTime": "2016-01-10T10:55:54Z"
-		},
-		{
-			"checksumSHA1": "5YCFabYzA1Zv/nGy35VDX5WBP4E=",
-			"path": "github.com/stretchr/testify/assert",
-			"revision": "890a5c3458b43e6104ff5da8dfa139d013d77544",
-			"revisionTime": "2017-07-05T02:17:15Z"
 		},
 		{
 			"checksumSHA1": "dr5+PfIRzXeN+l1VG+s0lea9qz8=",
